@@ -1,0 +1,500 @@
+ Amulets
+ W - the blessed Eye of the Aethiopica
+ Weapons
+ f - the rustproof +4 Magicbane
+ B - the rustproof +7 Stormbringer (weapon in hand)
+ Armor
+ b - an uncursed burnt +4 cloak of magic resistance (being worn)
+ i - a blessed +5 Hawaiian shirt (being worn)
+ w - an uncursed +5 silver dragon scale mail (being worn)
+ C - a blessed +4 pair of speed boots (being worn)
+ I - a blessed rusty +5 helmet (being worn)
+ Z - an uncursed +5 pair of leather gloves (being worn)
+ Comestibles
+ l - a cursed lizard corpse
+ o - an uncursed partly eaten food ration
+ Scrolls
+ D - a blessed scroll of light
+ S - a blessed scroll of blank paper
+ Spellbooks
+ O - the uncursed Book of the Dead
+ Rings
+ a - a blessed ring of levitation
+ s - an uncursed ring of stealth (on right hand)
+ (1 of 2)
+ Y - an uncursed ring of searching
+ Wands
+ c - a wand of speed monster (0:1)
+ e - a wand of digging (0:5)
+ n - a wand of striking (0:1)
+ t - a wand of cancellation (0:4)
+ F - a rusty wand of cancellation (0:7)
+ H - a wand of digging (0:1)
+ J - a wand of light (0:8)
+ N - a wand of wishing (1:3)
+ X - a wand of death (0:1)
+ Tools
+ h - a blessed bag of holding
+ k - an uncursed lock pick
+ m - the Bell of Opening (0:2)
+ p - a cursed +0 pick-axe
+ r - a magic marker (1:50)
+ u - a blessed +0 unicorn horn
+ G - a cursed blindfold
+ L - an uncursed stethoscope
+ T - the cursed Candelabrum of Invocation (7 candles attached)
+ Gems
+ y - an uncursed luckstone
+ (2 of 2)
+Contents of the bag of holding:
+
+a magic marker (0:4)
+5 uncursed K-rations
+6 uncursed C-rations
+an uncursed scroll of food detection
+an uncursed scroll of stinking cloud
+an uncursed spellbook of identify
+an uncursed spellbook of magic missile
+a wand of death (0:4)
+a blessed wand of lightning (0:6)
+a wand of light (0:10)
+a wand of undead turning (0:1)
+a wand of create monster (0:4)
+a wand of secret door detection (0:13)
+a wand of create monster (0:14)
+a wand of striking (0:5)
+a wand of sleep (0:6)
+a wand of undead turning (0:8)
+an uncursed spellbook of remove curse
+9 blessed scrolls of blank paper
+3 uncursed scrolls of blank paper
+an uncursed obsidian stone
+ --More--
+3 uncursed obsidian stones
+2 uncursed potions of water
+an uncursed +0 robe
+a cursed scroll of blank paper
+5 uncursed amethyst stones
+a blessed diluted potion of sleeping
+an uncursed potion of see invisible
+an uncursed scroll of enchant weapon
+a wand of fire (0:7)
+a blessed wand of cold (0:4)
+a wand of cold (0:4)
+an uncursed potion of object detection
+an uncursed +0 oilskin cloak
+an uncursed ring of sustain ability
+an uncursed scroll of enchant armor
+a blessed diluted potion of oil
+an uncursed wooden harp
+4 uncursed citrine stones
+a blessed scroll of earth
+2 blessed scrolls of fire
+a blessed scroll of teleportation
+an uncursed potion of booze
+5 uncursed diamonds
+ --More--
+an uncursed fluorite stone
+an uncursed potion of enlightenment
+a wand of fire (0:6)
+a wand of slow monster (0:5)
+an uncursed +1 ring of increase damage
+an uncursed ring of teleport control
+an uncursed ring of free action
+an uncursed magic whistle
+an uncursed garnet stone
+an uncursed chrysoberyl stone
+a blessed obsidian stone
+an uncursed opal
+6 uncursed emeralds
+2 uncursed diamonds
+8 uncursed rubies
+3 uncursed turquoise stones
+2 uncursed aquamarine stones
+an uncursed potion of polymorph
+2 uncursed potions of acid
+4 blessed potions of object detection
+2 uncursed potions of oil
+2 uncursed diluted potions of monster detection
+an uncursed scroll of punishment
+ --More--
+a blessed scroll of create monster
+3 uncursed scrolls of destroy armor
+an uncursed diluted potion of gain ability
+18 potions of holy water
+3 uncursed scrolls of amnesia
+9 uncursed scrolls of teleportation
+3 uncursed chrysoberyl stones
+2 uncursed rubies
+4 uncursed emeralds
+3 uncursed garnet stones
+ --More--
+
+
+
+
+                                          Final Attributes:
+                                          
+                                          You were piously aligned.
+                                      4 1 You were fire resistant.
+                                   ------ You were cold resistant.
+                                  5|...~. You were shock resistant.
+  ---------------                 5|..~.~ You were poison resistant.
+  |.))..........|                  |.~._~ You were level-drain resistant.
+  |.%---------..--   ---------   1 |@w@.@ You were magic-protected.
+  |..|.......|%..-- --.......-- |  |..U.. You saw invisible.
+  |..|.......|%...---...%.....--|.4----V- You were telepathic.
+  |..|..._...%%%%%$%%%...%....1||...1..a. You were warned.
+  |..|.......|%..%---....$%...- ---...1A. You were invisible to others.
+  |..|.......|...--  -..$%%..-    -----a- You were stealthy.
+  |..---------=%--   ----%----    --...S. You had teleport control.
+  |........%.%..|      |%.%--------....a1 You were protected.
+  ---------------      |.%%%%%.%[|....... You were very fast.
+                       -------%..--...%.. You had reflection.
+                             |..).--  .A% You were very lucky.
+                             ---.%.----D- You had extra luck.
+                               |.....%.%% Bad luck did not time out for you.
+                               ---------- Good luck did not time out for you.
+Gurkan the Necromancer    St:18/15 Dx:17  You survived after being killed once.
+Astral Plane $:0  HP:168(184) Pw:60(309)  --More--
+Vanquished creatures:
+
+Orcus
+Yeenoghu
+Juiblex
+The Wizard of Yendor (thrice)
+Death (4 times)
+Pestilence
+Famine (6 times)
+4 arch-liches
+a high priest
+3 mastodons
+Medusa
+Croesus
+7 iron golems
+a master lich
+2 storm giants
+a titan
+5 glass golems
+4 balrogs
+7 purple worms
+a gray dragon
+4 silver dragons
+ --More--
+6 white dragons
+an orange dragon
+6 black dragons
+2 blue dragons
+3 green dragons
+9 yellow dragons
+13 minotaurs
+5 jabberwocks
+The Dark One
+5 baluchitheria
+12 Angels
+Vlad the Impaler
+10 stone golems
+7 Olog-hai
+2 Nazguls
+8 pit fiends
+3 sandestins
+9 hell hounds
+7 titanotheres
+7 trappers
+a baby black dragon
+a baby green dragon
+a guardian naga
+ --More--
+36 vampire lords
+5 skeletons
+4 shopkeepers
+29 aligned priests
+9 captains
+6 shades
+2 liches
+4 clay golems
+7 nurses
+9 ice devils
+4 nalfeshnees
+3 lurkers above
+2 Aleaxes
+a frost giant
+an ettin
+a golden naga
+8 black puddings
+25 vampires
+11 lieutenants
+46 ghosts
+a caveman
+a wizard
+2 queen bees
+ --More--
+2 mind flayers
+9 giant mimics
+9 zruties
+7 fire giants
+8 ogre kings
+11 ice trolls
+5 rock trolls
+10 umber hulks
+4 flesh golems
+3 Elvenkings
+5 doppelgangers
+18 hezrous
+25 bone devils
+10 large mimics
+3 wumpuses
+7 fire vortices
+2 baby long worms
+9 long worms
+5 couatls
+24 stalkers
+6 air elementals
+12 fire elementals
+13 earth elementals
+ --More--
+6 hill giants
+3 giant mummies
+3 black nagas
+17 xorns
+18 giant zombies
+4 elf-lords
+21 sergeants
+2 water demons
+6 barbed devils
+11 vrocks
+6 salamanders
+12 wargs
+3 winter wolves
+5 hell hound pups
+19 small mimics
+2 glass piercers
+4 warhorses
+4 steam vortices
+27 xans
+4 ettin mummies
+7 ogre lords
+10 quantum mechanics
+41 trolls
+ --More--
+6 wood golems
+2 erinyes
+2 mariliths
+4 sharks
+6 electric eels
+9 gelatinous cubes
+7 pyrolisks
+2 large dogs
+4 freezing spheres
+11 flaming spheres
+11 shocking spheres
+3 large cats
+10 tigers
+10 gargoyles
+2 dwarf kings
+17 tengu
+8 ochre jellies
+11 leocrottas
+8 energy vortices
+3 mountain centaurs
+6 stone giants
+10 elf mummies
+8 human mummies
+ --More--
+4 green slimes
+18 pit vipers
+6 pythons
+14 cobras
+57 wraiths
+12 carnivorous apes
+19 ettin zombies
+4 leather golems
+121 soldiers
+10 horned devils
+5 succubi
+9 incubi
+20 chameleons
+5 crocodiles
+98 giant beetles
+10 quivering blobs
+20 cockatrices
+11 wolves
+12 winter wolf cubs
+5 lynxes
+3 panthers
+14 gremlins
+4 spotted jellies
+ --More--
+5 orc-captains
+10 iron piercers
+5 mumakil
+13 giant spiders
+8 scorpions
+4 horses
+6 ice vortices
+16 black lights
+66 vampire bats
+4 forest centaurs
+8 gnome kings
+5 orc mummies
+3 dwarf mummies
+4 ogres
+2 brown puddings
+14 rust monsters
+14 owlbears
+4 yetis
+2 gold golems
+2 werewolves
+7 Green-elves
+7 giant eels
+12 lizards
+ --More--
+4 dogs
+3 dingos
+8 housecats
+3 jaguars
+8 dwarf lords
+5 blue jellies
+6 white unicorns
+2 gray unicorns
+a black unicorn
+10 dust vortices
+19 ravens
+9 plains centaurs
+9 gnome mummies
+12 snakes
+18 apes
+17 human zombies
+3 rope golems
+2 Woodland-elves
+96 soldier ants
+100 fire ants
+10 bugbears
+3 imps
+12 lemures
+ --More--
+7 wood nymphs
+8 water nymphs
+4 mountain nymphs
+67 Mordor orcs
+an Uruk-hai
+3 orc shamans
+12 rock piercers
+9 rock moles
+3 ponies
+4 fog clouds
+12 yellow lights
+2 shriekers
+3 violet fungi
+24 gnome lords
+11 gnomish wizards
+6 kobold mummies
+a red naga hatchling
+a golden naga hatchling
+7 gray oozes
+8 barrow wights
+22 elf zombies
+10 ghouls
+2 straw golems
+ --More--
+5 jellyfish
+a baby crocodile
+110 giant ants
+5 little dogs
+17 floating eyes
+5 kittens
+26 dwarves
+7 homunculi
+3 kobold lords
+3 kobold shamans
+28 hill orcs
+25 rothes
+2 rabid rats
+4 centipedes
+16 giant bats
+2 monkeys
+8 orc zombies
+10 dwarf zombies
+3 wererats
+3 werejackals
+11 iguanas
+107 killer bees
+5 acid blobs
+ --More--
+a gas spore
+9 hobbits
+9 manes
+a large kobold
+14 hobgoblins
+14 giant rats
+18 cave spiders
+3 brown molds
+3 yellow molds
+2 green molds
+2 red molds
+64 gnomes
+30 garter snakes
+16 gnome zombies
+8 geckos
+10 jackals
+a fox
+5 goblins
+4 sewer rats
+10 grid bugs
+15 bats
+10 lichens
+18 kobold zombies
+ --More--
+
+3041 creatures vanquished.
+ --More--
+
+
+                                                          Genocided species:
+                                                          
+                                                          hobbits
+                                      4 131 4             dwarves
+                                   ---------5             bugbears
+                                  5|...~...|2             dwarf lords
+  ---------------                 5|..~.~~~|              dwarf kings
+  |.))..........|                  |.~._~~~|              mind flayers
+  |.%---------..--   ---------   1 |@w@.@~~|     -------- master mind flayers
+  |..|.......|%..-- --.......-- |  |..U..~~|  | --....... liches
+  |..|.......|%...---...%.....--|.4----V---- .|--........ demiliches
+  |..|..._...%%%%%$%%%...%....1||...1..a..4.4.||....%%%.% master liches
+  |..|.......|%..%---....$%...- ---...1A....---  ....$... arch-liches
+  |..|.......|...--  -..$%%..-    -----a-----      .)%..% jellyfish
+  |..---------=%--   ----%----    --...S...--      --%--- piranhas
+  |........%.%..|      |%.%--------....a1...--------I..|  sharks
+  ---------------      |.%%%%%.%[|........5..|   $%....|  giant eels
+                       -------%..--...%.....--   -------  electric eels
+                             |..).--  .A%. --    |        krakens
+                             ---.%.----D----   -          
+                               |.....%.%%%%%              17 species genocided.
+                               --------------             --More--
+Gurkan the Necromancer    St:18/15 Dx:17 Co:18 In:18 Wi:18 Ch:8  Chaotic
+Astral Plane $:0  HP:168(184) Pw:60(309) AC:-38 Xp:25/54595624 T:67604
+                                            Voluntary challenges:
+                                            
+                                            You genocided 17 types of monsters.
+                                      4 131 You never polymorphed an object.
+                                   -------- You used 4 wishes.
+                                  5|...~... You did not wish for any artifacts.
+  ---------------                 5|..~.~~~ --More--
+  |.))..........|                  |.~._~~~|                  |...
+  |.%---------..--   ---------   1 |@w@.@~~|     ---------   --..---------
+  |..|.......|%..-- --.......-- |  |..U..~~|  | --.......-- --...|.......|
+  |..|.......|%...---...%.....--|.4----V---- .|--.........---%.%.|.......|
+  |..|..._...%%%%%$%%%...%....1||...1..a..4.4.||....%%%.%/%%=%%%%-..._...|
+  |..|.......|%..%---....$%...- ---...1A....---  ....$...%---....|.......|
+  |..|.......|...--  -..$%%..-    -----a-----      .)%..%-- --...|.......|
+  |..---------=%--   ----%----    --...S...--      --%----   --..---------
+  |........%.%..|      |%.%--------....a1...--------I..|      |...
+  ---------------      |.%%%%%.%[|........5..|   $%....|      -----
+                       -------%..--...%.....--   -------
+                             |..).--  .A%. --    |      
+                             ---.%.----D----   -        
+                               |.....%.%%%%%            
+                               --------------           
+Gurkan the Necromancer    St:18/15 Dx:17 Co:18 In:18 Wi:18 Ch:8  Chaotic
+Astral Plane $:0  HP:168(184) Pw:60(309) AC:-38 Xp:25/54595624 T:67604
