@@ -1,0 +1,96 @@
+ Amulets
+ M - an amulet of life saving
+ Z - an amulet of reflection (being worn)
+ Weapons
+ R - the +6 Grayswandir (weapon in hand)
+ Armor
+ a - a blessed greased rustproof +4 helm of brilliance
+ e - a blessed +2 gray dragon scale mail (being worn)
+ q - a +5 T-shirt (being worn)
+ v - a -1 helm of opposite alignment (being worn)
+ E - a very burnt +4 pair of speed boots (being worn)
+ P - the blessed +0 Mitre of Holiness
+ T - a blessed +5 pair of gauntlets of power (being worn)
+ Scrolls
+ b - a blessed scroll of gold detection
+ d - a scroll of create monster
+ f - a scroll of fire
+ Spellbooks
+ s - the Book of the Dead
+ Potions
+ x - a potion of holy water
+ Rings
+ g - a ring of slow digestion
+Contents of the bag of holding:
+
+15439 gold pieces
+an amulet of change
+a scroll of taming
+a blessed scroll of teleportation
+3 blessed scrolls of remove curse
+a scroll of enchant weapon
+a scroll of charging
+a blessed scroll of create monster
+2 blessed scrolls of enchant weapon
+2 scrolls of stinking cloud
+13 scrolls of teleportation
+a spellbook of blank paper
+a spellbook of blank paper
+a potion of water
+a potion of sickness
+a blessed potion of oil
+a potion of fruit juice
+2 potions of sleeping
+a potion of hallucination
+a blessed potion of speed
+2 potions of invisibility
+a blessed potion of gain energy
+a potion of levitation
+a blessed potion of sleeping
+a blessed potion of object detection
+a potion of speed
+3 potions of enlightenment
+3 potions of object detection
+a potion of see invisible
+a ring of cold resistance
+a ring of sustain ability
+a ring of protection from shape changers
+a +2 ring of protection
+a cursed ring of aggravate monster
+a blessed ring of warning
+a wand of light (0:15)
+a wand of polymorph (0:0)
+a wand of striking (0:6)
+a wand of fire (2:5)
+a wand of cold (0:4)
+a diamond
+2 rubies
+2 garnet stones
+a fluorite stone
+a black opal
+2 aquamarine stones
+5 topaz stones
+The oilskin sack is empty.--More--
+
+
+                                   5 33
+                                   ---------
+                                   |.......|
+                                  3|.......|
+                                  5|..@@...|
+                                  4|.......|
+                                |  |.......|  |
+                                |. ----A---- .|
+                                |.....$.......|
+                                ---....A....---
+                                  -----@-----
+                                   -% 44%
+                                     %[ %    -----
+                                        5    |
+                                            --   -
+                                      %) % --    |
+                                    ---.----   ---
+                                               |
+                                     ----------
+Tar the Lama                 St:25 Dx:18 Co:18 In:16 Wi:18 Ch:11  Chaotic
+Astral Plane $:0 HP:190(215) Pw:342(342) AC:-16 Xp:23/30000030 T:35884 Satiated

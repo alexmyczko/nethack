@@ -1,0 +1,24 @@
+                                            Voluntary challenges:
+                                            
+                                            You genocided 10 types of monsters.
+                                   5 33     You never changed form.
+                                   -------- You used 7 wishes.
+                                   |....... You did not wish for any artifacts.
+                                  3|....... --More--
+                                  5|..@@...|
+                                  4|.......|
+                                |  |.......|  |
+                                |. ----A---- .|
+                                |.....$.......|
+                                ---....A....---
+                                  -----@-----
+                                   -% 44%
+                                     %[ %    -----
+                                        5    |
+                                            --   -
+                                      %) % --    |
+                                    ---.----   ---
+                                               |
+                                     ----------
+Tar the Lama                 St:25 Dx:18 Co:18 In:16 Wi:18 Ch:11  Chaotic
+Astral Plane $:0 HP:190(215) Pw:342(342) AC:-16 Xp:23/30000030 T:35884 Satiated
