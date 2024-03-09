@@ -1,0 +1,272 @@
+Vanquished creatures:
+
+Asmodeus
+Baalzebub
+Orcus
+Juiblex
+The Wizard of Yendor (10 times)
+Death (twice)
+a high priest
+2 mastodons
+Medusa
+8 krakens
+an iron golem
+5 storm giants
+a titan
+6 glass golems
+9 purple worms
+9 silver dragons
+5 red dragons
+4 white dragons
+10 black dragons
+2 blue dragons
+a green dragon
+6 yellow dragons
+18 minotaurs
+5 jabberwocks
+Lord Surtur
+7 baluchitheria
+8 Angels
+Vlad the Impaler
+11 stone golems
+2 master mind flayers
+6 Olog-hai
+15 pit fiends
+2 sandestins
+2 hell hounds
+10 titanotheres
+6 trappers
+a baby blue dragon
+a baby yellow dragon
+3 disenchanters
+32 vampire lords
+5 skeletons
+a shopkeeper
+21 aligned priests
+7 captains
+6 shades
+a lich
+a clay golem
+7 nurses
+2 ice devils
+4 nalfeshnees
+12 lurkers above
+3 frost giants
+6 ettins
+a golden naga
+44 black puddings
+34 vampires
+8 lieutenants
+34 ghosts
+a caveman
+a monk
+2 queen bees
+4 winged gargoyles
+11 giant mimics
+5 zruties
+19 fire giants
+5 ogre kings
+2 ice trolls
+29 rock trolls
+12 umber hulks
+6 flesh golems
+2 Elvenkings
+4 doppelgangers
+16 hezrous
+13 bone devils
+11 large mimics
+3 wumpuses
+7 fire vortices
+2 baby long worms
+9 long worms
+a couatl
+22 stalkers
+12 air elementals
+6 fire elementals
+31 earth elementals
+6 water elementals
+5 hill giants
+9 giant mummies
+a black naga
+9 xorns
+13 giant zombies
+12 elf-lords
+24 sergeants
+6 barbed devils
+7 vrocks
+21 wargs
+a winter wolf
+3 hell hound pups
+31 small mimics
+2 glass piercers
+13 warhorses
+9 steam vortices
+12 xans
+5 ettin mummies
+7 ogre lords
+10 quantum mechanics
+20 trolls
+a sasquatch
+6 wood golems
+3 erinyes
+4 mariliths
+3 djinn
+4 sharks
+7 electric eels
+2 gelatinous cubes
+7 pyrolisks
+2 large dogs
+2 freezing spheres
+8 flaming spheres
+5 shocking spheres
+4 large cats
+12 tigers
+6 gargoyles
+a tengu
+7 ochre jellies
+5 leocrottas
+10 energy vortices
+4 mountain centaurs
+3 stone giants
+9 elf mummies
+5 human mummies
+2 red nagas
+3 green slimes
+14 pit vipers
+a python
+8 cobras
+51 wraiths
+6 carnivorous apes
+19 ettin zombies
+4 leather golems
+7 Grey-elves
+68 soldiers
+5 horned devils
+5 succubi
+7 incubi
+13 chameleons
+12 giant beetles
+4 quivering blobs
+25 cockatrices
+20 wolves
+7 winter wolf cubs
+11 lynxes
+5 panthers
+45 gremlins
+6 spotted jellies
+58 leprechauns
+4 orc-captains
+3 iron piercers
+3 mumakil
+13 giant spiders
+9 scorpions
+7 horses
+an ice vortex
+8 black lights
+8 vampire bats
+6 forest centaurs
+5 gnome kings
+5 orc mummies
+a dwarf mummy
+19 ogres
+2 brown puddings
+7 rust monsters
+21 owlbears
+14 yetis
+3 gold golems
+3 werewolves
+6 Green-elves
+2 piranhas
+10 giant eels
+13 lizards
+5 chickatrices
+a dog
+a housecat
+6 jaguars
+2 dwarf lords
+3 blue jellies
+3 gray unicorns
+3 black unicorns
+9 dust vortices
+a raven
+6 plains centaurs
+4 gnome mummies
+9 snakes
+8 apes
+27 human zombies
+3 rope golems
+18 Woodland-elves
+35 soldier ants
+58 fire ants
+a bugbear
+7 lemures
+4 quasits
+4 wood nymphs
+6 water nymphs
+2 mountain nymphs
+5 Mordor orcs
+29 Uruk-hai
+2 orc shamans
+6 rock piercers
+4 rock moles
+a pony
+4 fog clouds
+8 yellow lights
+5 violet fungi
+16 gnome lords
+9 gnomish wizards
+5 kobold mummies
+2 black naga hatchlings
+3 gray oozes
+6 barrow wights
+11 elf zombies
+9 ghouls
+2 straw golems
+5 jellyfish
+2 baby crocodiles
+23 giant ants
+4 little dogs
+3 floating eyes
+6 kittens
+14 dwarves
+2 kobold lords
+4 kobold shamans
+5 hill orcs
+16 rothes
+3 rabid rats
+a giant bat
+2 monkeys
+8 orc zombies
+6 dwarf zombies
+4 wererats
+2 werejackals
+13 iguanas
+79 killer bees
+5 acid blobs
+8 coyotes
+2 gas spores
+5 hobbits
+10 manes
+2 large kobolds
+3 hobgoblins
+6 giant rats
+9 cave spiders
+2 brown molds
+5 yellow molds
+a red mold
+60 gnomes
+26 garter snakes
+9 gnome zombies
+12 geckos
+4 jackals
+a fox
+a kobold
+5 goblins
+3 sewer rats
+5 grid bugs
+a bat
+5 lichens
+13 kobold zombies
+9 newts
+
+2343 creatures vanquished.

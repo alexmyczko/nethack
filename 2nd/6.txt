@@ -1,0 +1,120 @@
+ Amulets
+ f - a cursed cheap plastic imitation of the Amulet of Yendor named plastic
+ E - an uncursed amulet of life saving (being worn)
+ S - an uncursed amulet of life saving
+ Weapons
+ g - a +5 crysknife (alternate weapon; not wielded)
+ M - the rustproof +5 Mjollnir (weapon in hand)
+ Armor
+ c - a blessed +5 silver dragon scale mail (being worn)
+ m - a blessed fireproof +4 cloak of magic resistance (being worn)
+ s - a blessed +5 pair of gauntlets of power (being worn)
+ I - an uncursed +5 helm of brilliance (being worn)
+ J - an uncursed thoroughly burnt +4 pair of speed boots (being worn)
+ Scrolls
+ Z - an uncursed scroll of remove curse
+ Spellbooks
+ j - the cursed Book of the Dead
+ Potions
+ X - an uncursed potion of full healing
+ Rings
+ b - an uncursed -1 ring of increase damage
+ v - an uncursed ring of levitation
+ z - an uncursed ring of slow digestion (on left hand)
+ G - an uncursed ring of polymorph
+ V - an uncursed ring of regeneration (on right hand)
+ Wands
+ a - a wand of enlightenment (1:10)
+ d - a wand of striking (4:1)
+ e - a wand of polymorph (1:0)
+ i - a wand of digging (0:0)
+ l - a cursed wand of wishing (1:1)
+ n - a wand of teleportation (0:4)
+ p - a blessed wand of striking (0:5)
+ q - a wand of striking (0:3)
+ r - a cursed wand of cancellation (0:5)
+ x - a wand of digging (0:0)
+ y - a wand of striking (0:5)
+ A - a rusty wand of probing (0:4)
+ C - a wand of digging (0:2)
+ D - a cursed wand of fire (0:1)
+ F - a wand of teleportation (0:4)
+ K - a wand of speed monster (0:6)
+ L - a cursed wand of sleep (0:7)
+ N - a wand of sleep (0:5)
+ P - a cursed wand of striking (0:5)
+ Q - a wand of lightning (0:6)
+ T - a wand of polymorph (0:5)
+ U - a wand of digging (0:4)
+ (2 of 3)
+Contents of the bag of holding:
+
+an uncursed amulet of life saving
+a +0 silver saber
+the blessed rustproof +1 Excalibur
+an uncursed +0 robe
+an uncursed very burnt +0 robe
+3 uncursed lumps of royal jelly
+2 uncursed C-rations
+a blessed scroll of identify
+an uncursed scroll of magic mapping
+a blessed scroll of remove curse
+an uncursed scroll of enchant weapon
+an uncursed scroll of create monster
+an uncursed scroll of enchant armor
+an uncursed scroll of teleportation
+a blessed scroll of destroy armor
+a cursed potion of extra healing
+an uncursed potion of full healing
+3 potions of holy water
+3 blessed potions of full healing
+an uncursed potion of levitation
+a blessed potion of confusion
+an uncursed potion of water
+an uncursed potion of fruit juice
+an uncursed potion of gain energy
+a blessed potion of gain ability
+3 uncursed potions of restore ability
+a blessed diluted potion of extra healing
+a blessed potion of hallucination
+9 uncursed potions of extra healing
+an uncursed rusty ring of polymorph control
+an uncursed +1 ring of gain strength
+a blessed +2 ring of protection
+an uncursed ring of searching
+an uncursed ring of invisibility
+an uncursed ring of warning
+an uncursed ring of teleport control
+an uncursed +2 ring of increase damage
+a blessed +3 ring of increase accuracy
+an uncursed ring of stealth
+an uncursed ring of teleportation
+an uncursed ring of hunger
+an uncursed ring of conflict
+an uncursed ring of free action
+an uncursed ring of slow digestion
+a wand of cold (0:5)
+a wand of fire (0:7)
+a wand of fire (0:1)
+a wand of cold (0:4)
+an uncursed blindfold
+an uncursed tallow candle
+3 uncursed amethyst stones
+4 uncursed black opals
+3 uncursed amethyst stones
+4 uncursed jacinth stones
+3 uncursed fluorite stones
+4 uncursed chrysoberyl stones
+4 uncursed black opals
+3 uncursed turquoise stones
+4 uncursed garnet stones
+4 uncursed diamonds
+11 uncursed worthless pieces of green glass
+5 uncursed worthless pieces of black glass
+12 uncursed worthless pieces of red glass
+an uncursed ruby
+an uncursed opal
+an uncursed jet stone
+5 uncursed jasper stones
+an uncursed emerald
+3 uncursed amber stones

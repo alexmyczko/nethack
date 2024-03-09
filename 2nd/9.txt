@@ -1,0 +1,31 @@
+Genocided species:
+
+chickatrices
+cockatrices
+pyrolisks
+hobbits
+dwarves
+bugbears
+dwarf lords
+dwarf kings
+mind flayers
+master mind flayers
+liches
+demiliches
+master liches
+arch-liches
+rust monsters
+disenchanters
+trolls
+ice trolls
+rock trolls
+water trolls
+Olog-hai
+jellyfish
+piranhas
+sharks
+giant eels
+electric eels
+krakens
+
+27 species genocided.
